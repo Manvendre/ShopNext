@@ -208,7 +208,3 @@ CORS_ALLOW_ALL_ORIGINS = True
 if os.getcwd() == '/app':
     DEBUG = False
 
-
-
-razor_pay_key_id ='rzp_test_t8yPqYxeDyzR69'
-key_secret='Gf5QYsLYIEs3fY9AO8ZALJHg'
